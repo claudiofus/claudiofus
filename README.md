@@ -5,7 +5,7 @@ Full-stack developer with over five years of experience and passionate about sof
 ## 🤖 Software 🤖
 ### Android native apps (Java + Kotlin)
   * [Frasi e audio di Pablo Escobar](https://play.google.com/store/apps/details?id=com.software.claudiofus.escobarApp)
-  * [Quiz Medicina 2020](https://play.google.com/store/apps/details?id=claudiofus.software.com.medapp2018)
+  * [Quiz Medicina](https://play.google.com/store/apps/details?id=claudiofus.software.com.medapp2018)
 
 ### Android and iOS apps (React Native)
   * [Quiz Medicina](https://claudiofus.github.io/quiz-medicina-spot)
